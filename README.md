@@ -6,7 +6,7 @@ Dataset-MNIST dataset 60,000 training images,10,000 test images.
 2 models were tested -
 
 
-###Simpler CNN
+### Simpler CNN
 
 * Conv2D layer with 32/*5/*5 filters ,relu activation function.
 * Maxpooling layer of 2/*2.
@@ -15,7 +15,7 @@ Dataset-MNIST dataset 60,000 training images,10,000 test images.
 * FC layer with 128 neurons,relu activation functions.
 * Output layer for 10 classes and softmax activation function.
 
-###Larger CNN
+### Larger CNN
 
 * Conv2D layer with 30/*5/*5 filters ,relu activation function.
 * Pooling layer of 2/*2
